@@ -11,8 +11,8 @@ public class berhasil {
     private JLabel gambar;
 
     public berhasil() {
-//    ImageIcon icon = new ImageIcon("Tugas2/src/logo1.jpg");
-//    gambar.setIcon(icon);
+    ImageIcon icon = new ImageIcon("Tugas2/src/logo1.jpg");
+    gambar.setIcon(icon);
     JFrame frame = new JFrame();
     frame.setTitle("Berhasil");
     frame.setContentPane(main);
